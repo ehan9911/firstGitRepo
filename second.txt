@@ -1,3 +1,8 @@
 second
+<<<<<<< HEAD
 changed to SECOND
 changed to THIRD
+=======
+changed to SECOND   
+add another line, make different from remote repo
+>>>>>>> e7eccb8 (add modified second and add third.txt)
